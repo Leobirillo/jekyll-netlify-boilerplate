@@ -2,7 +2,7 @@
 layout: post
 title: Test nuovo post
 author: john_doe
-date: '2019-05-14 00:05:00'
+date: 2018-07-11T00:12:57.000Z
 intro_paragraph: '**Scatena il potere di Jekyll e Netlify CMS!!!**'
 categories: test
 ---
